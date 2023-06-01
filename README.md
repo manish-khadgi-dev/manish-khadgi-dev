@@ -5,7 +5,7 @@ Software Engineer | Full-stack Developer
 ----------------------------------------
 
 * 🌍  I'm based in Sydney
-* 🖥️  See my portfolio at [MyPortfolio](http://www.manishkhadgi.com/)
+* 🖥️  See my portfolio at [MyPortfolio](https://my-porfolio-v2-xi.vercel.app/)
 * ✉️  You can contact me at [manishkhadgi123@gmail.com](mailto:manishkhadgi123@gmail.com)
 * 🧠  I'm learning Full stack development
 * 🤝  I'm open to collaborating on Interesting Projects
